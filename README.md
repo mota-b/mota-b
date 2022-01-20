@@ -1,6 +1,6 @@
 # Hello there , :hand:
 
-<p align="center"> Benhatchi AbdElKader El-Moukhtar, Computer scientist & Full Stack MERN Junior Web
+<p align="center"> AbdElKader El-Mokhtar BENHATCHI, Computer scientist & Full Stack MERN Junior Web
 Developer
 </p>
 
